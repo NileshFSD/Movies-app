@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "movieDetails": {
+      "name": "Black Panther: Wakanda Forever",
+      "trailer": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+      "poster": "https://cdn.cinematerial.com/p/297x/gvbzokwl/black-panther-wakanda-forever-movie-poster-md.jpg?v=1664882491",
+      "summary": "Queen Ramonda, Shuri, MBaku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T�Challa�s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+      "release_date": "09-11-2022",
+      "duration": "162 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 7.3
+    }
+  },
+  {
+    "id": 2,
+    "movieDetails": {
+      "name": "Bhediya",
+      "trailer": "https://www.youtube.com/watch?v=mfl--nI-Bhs",
+      "poster": "https://cdn.cinematerial.com/p/136x/yqogxxru/bhediya-indian-movie-poster-sm.jpg?v=1666166888",
+      "summary": "Inspired by legendary folklore rooted in Arunachal Pradesh, Bhediya tells the story of Bhaskar, a man who gets bitten by a mythical wolf and begins to transform into the creature himself. As Bhaskar and his ragtag buddies try to find answers, he is worried that the monster in him will wipe out human existence in the local town.",
+      "release_date": "25-11-2022",
+      "duration": "156 minutes",
+      "genre": ["Horror", "Comedy"],
+      "rating": 8.0
+    }
+  },
+  {
+    "id": 3,
+    "movieDetails": {
+      "name": "The Menu",
+      "trailer": "https://www.youtube.com/watch?v=C_uTkUGcHv4",
+      "poster": "https://cdn.cinematerial.com/p/297x/fbn7nr8g/the-menu-movie-poster-md.jpg?v=1663164571",
+      "summary": "A couple travels to a coastal island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+      "release_date": "17-11-2022",
+      "duration": " 107 minutes",
+      "genre": ["Horror", "Comedy", "Thriller"],
+      "rating": 7.5
+    }
+  },
+  {
+    "id": 4,
+    "movieDetails": {
+      "name": "Disenchanted",
+      "trailer": "https://www.youtube.com/watch?v=DY63dfyn7HQ",
+      "poster": "https://cdn.cinematerial.com/p/136x/ghqtlclj/disenchanted-movie-poster-sm.jpg?v=1662786442",
+      "summary": "Disillusioned with life in the city, feeling out of place in suburbia, and frustrated that her happily ever after hasn�t been so easy to find, Giselle turns to the magic of Andalasia for help. Accidentally transforming the entire town into a real-life fairy tale and placing her family�s future happiness in jeopardy, she must race against time to reverse the spell and determine what happily ever after truly means to her and her family.",
+      "release_date": "16-11-2022",
+      "duration": "120 minutes",
+      "genre": ["Fantasy", "Comedy"],
+      "rating": 5.7
+    }
+  },
+  {
+    "id": 5,
+    "movieDetails": {
+      "name": "A Christmas Story Christmas",
+      "trailer": "https://www.youtube.com/watch?v=mZILRPjsaew",
+      "poster": "https://cdn.cinematerial.com/p/297x/bor2sqfq/a-christmas-story-christmas-movie-poster-md.jpg?v=1667337643",
+      "summary": "Ralphie is now all grown up and must deal with Christmas and all that comes with it�as a dad.",
+      "release_date": "08-12-2022",
+      "duration": "98 minutes",
+      "genre": ["Drama", "Comedy"],
+      "rating": 6.9
+    }
+  },
+  {
+    "id": 6,
+    "movieDetails": {
+      "name": "Slumberland",
+      "trailer": "https://www.youtube.com/watch?v=06SZPlPcYx0",
+      "poster": "https://cdn.cinematerial.com/p/297x/4jcr5eub/slumberland-movie-poster-md.jpg?v=1664060310",
+      "summary": "A young girl discovers a secret map to the dreamworld of Slumberland, and with the help of an eccentric outlaw, she traverses dreams and flees nightmares, with the hope that she will be able to see her late father again.",
+      "release_date": "09-11-2022",
+      "duration": "117 minutes",
+      "genre": ["Adventure", "Fantasy", "Drama"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 7,
+    "movieDetails": {
+      "name": "The Wonder",
+      "trailer": "https://www.youtube.com/watch?v=htybz7XscIY",
+      "poster": "https://cdn.cinematerial.com/p/297x/gali3ziz/the-wonder-movie-poster-md.jpg?v=1663347225",
+      "summary": "Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.",
+      "release_date": "02-11-2022",
+      "duration": "109 minutes",
+      "genre": ["Drama", "Thriller", "Mystery"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 8,
+    "movieDetails": {
+      "name": "Avatar: The Way of Water",
+      "trailer": "https://i.ytimg.com/an_webp/o5F8MOz_IDw/mqdefault_6s.webp?du=3000&sqp=CITIrZwG&rs=AOn4CLDYDV6Dha1XKMhx36OlQ_uX7zuR3A",
+      "poster": "https://cdn.cinematerial.com/p/297x/ayniyqcx/avatar-the-way-of-water-movie-poster-md.jpg?v=1667461543",
+      "summary": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+      "release_date": "14-12-2022",
+      "duration": "192 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 9,
+    "movieDetails": {
+      "name": "Bones and All",
+      "trailer": "https://www.youtube.com/watch?v=pjMt1MIk2EA",
+      "poster": "https://cdn.cinematerial.com/p/136x/klftwlgd/bones-and-all-movie-poster-sm.jpg?v=1665424166",
+      "summary": "Abandoned by her father, a young woman named Maren embarks on a thousand-mile odyssey through the backroads of America where she meets Lee, a disenfranchised drifter. But despite their best efforts, all roads lead back to their terrifying pasts and to a final stand that will determine whether their love can survive their otherness.",
+      "release_date": "18-11-2022",
+      "duration": "131 minutes",
+      "genre": ["Drama", "Horror", "Romance"],
+      "rating": 7.3
+    }
+  },
+  {
+    "id": 10,
+    "movieDetails": {
+      "name": "Black Adam",
+      "trailer": "https://www.youtube.com/watch?v=mkomfZHG5q4",
+      "poster": "https://cdn.cinematerial.com/p/136x/eogsq3eu/black-adam-movie-poster-sm.jpg?v=1654647619",
+      "summary": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods�and imprisoned just as quickly�Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+      "release_date": "19-10-2022",
+      "duration": "125 minutes",
+      "genre": ["Fantasy", "Action", "Science", "Fiction"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 11,
+    "movieDetails": {
+      "name": "A Christmas Story",
+      "trailer": "https://www.youtube.com/watch?v=cfjEZ88NHBw",
+      "poster": "https://cdn.cinematerial.com/p/136x/4rokz6om/a-christmas-story-movie-cover-sm.jpg?v=1456807744",
+      "summary": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+      "release_date": "18-11-1983",
+      "duration": "93 minutes",
+      "genre": ["Comedy"],
+      "rating": 7.9
+    }
+  },
+  {
+    "id": 12,
+    "movieDetails": {
+      "name": "Glass Onion: A Knives Out Mystery",
+      "trailer": "https://www.youtube.com/watch?v=gj5ibYSz8C0",
+      "poster": "https://cdn.cinematerial.com/p/136x/ocaxnbjw/glass-onion-a-knives-out-mystery-movie-poster-sm.jpg?v=1662652057",
+      "summary": "Intrepid detective Benoit Blanc finds himself at a lavish private estate on a Greek island, but how and why he comes to be there is only the first of many puzzles. Blanc soon meets a distinctly disparate group of friends gathering at the invitation of billionaire Miles Bron for their yearly reunion. As in all the best murder mysteries, each person harbors their own secrets, lies and motivations. And when someone turns up dead, everyone is a suspect.",
+      "release_date": "23-11-2022",
+      "duration": "139 minutes",
+      "genre": ["Comedy", "Crime", "Mystery"],
+      "rating": 8
+    }
+  },
+  {
+    "id": 13,
+    "movieDetails": {
+      "name": "Smile",
+      "trailer": "https://www.youtube.com/watch?v=BcDK7lkzzsU",
+      "poster": "https://cdn.cinematerial.com/p/136x/xndff0ls/smile-movie-poster-sm.jpg?v=1456746343",
+      "summary": "A carefree summer vacation turns into an inescapable terror trap for a group of young students who buy a vintage instant camera from a mysterious local shop owner...",
+      "release_date": "28-08-2009",
+      "duration": "119 minutes",
+      "genre": ["Horror", "Thriller"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 14,
+    "movieDetails": {
+      "name": "Don't Worry Darling",
+      "trailer": "https://www.youtube.com/watch?v=SZ2elR3OmWI",
+      "poster": "https://cdn.cinematerial.com/p/297x/xn7bagqf/dont-worry-darling-movie-poster-md.jpg?v=1660737138",
+      "summary": "Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive fa�ade, Alice can�t help questioning exactly what they�re doing in Victory, and why.",
+      "release_date": "21-09-2022",
+      "duration": "123 minutes",
+      "genre": ["Thriller", "Science", "Fiction", "Mystery"],
+      "rating": 6.2
+    }
+  },
+  {
+    "id": 15,
+    "movieDetails": {
+      "name": "Where the Crawdads Sing",
+      "trailer": "https://www.youtube.com/watch?v=PY3808Iq0Tg",
+      "poster": "https://cdn.cinematerial.com/p/136x/s2bk6pkd/where-the-crawdads-sing-international-movie-poster-sm.jpg?v=1658926181",
+      "summary": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
+      "release_date": "15-07-2022",
+      "duration": "125 minutes",
+      "genre": ["Drama", "Thriller", "Mystery"],
+      "rating": 7.1
+    }
+  },
+  {
+    "id": 16,
+    "movieDetails": {
+      "name": "The Fabelmans",
+      "trailer": "https://www.youtube.com/watch?v=D1G2iLSzOe8",
+      "poster": "https://cdn.cinematerial.com/p/136x/lvuk8bpr/the-fabelmans-british-movie-poster-sm.jpg?v=1669073999",
+      "summary": "A coming-of-age story about a young man�s discovery of a shattering family secret and an exploration of the power of movies to help us see the truth about each other and ourselves.",
+      "release_date": "11-11-2022",
+      "duration": "151 minutes",
+      "genre": ["Drama", "Comedy"],
+      "rating": 8.2
+    }
+  },
+  {
+    "id": 17,
+    "movieDetails": {
+      "name": "Triangle of Sadness",
+      "trailer": "https://www.youtube.com/watch?v=VDvfFIZQIuQ",
+      "poster": "https://cdn.cinematerial.com/p/136x/fha4sa86/triangle-of-sadness-british-movie-poster-sm.jpg?v=1667646730",
+      "summary": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged captain. What first appeared Instagrammable ends catastrophically, leaving the survivors stranded on a desert island and fighting for survival.",
+      "release_date": "23-09-2022",
+      "duration": "147 minutes",
+      "genre": ["Drama", "Comedy"],
+      "rating": 7.7
+    }
+  },
+  {
+    "id": 18,
+    "movieDetails": {
+      "name": "Strange World",
+      "trailer": "https://www.youtube.com/watch?v=bKh2G73gCCs",
+      "poster": "https://cdn.cinematerial.com/p/136x/d4mqyfcp/strange-world-movie-poster-sm.jpg?v=1666726197",
+      "summary": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades�a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+      "release_date": "23-11-2022",
+      "duration": "102 mibutes",
+      "genre": ["Adventure", "Science", "Fiction"],
+      "rating": 4.7
+    }
+  },
+  {
+    "id": 19,
+    "movieDetails": {
+      "name": "The People We Hate at the Wedding",
+      "trailer": "https://www.youtube.com/watch?v=mXeS6ELErIs",
+      "poster": "https://cdn.cinematerial.com/p/297x/wyvojrfa/the-people-we-hate-at-the-wedding-movie-poster-md.jpg?v=1666210659",
+      "summary": "A dysfunctional family that can't seem to get along and get it together reluctantly reunites for a family wedding. As their many skeletons are wrenched from the closet, it turns out to be just what this singular family needs to reconnect.",
+      "release_date": "17-11-2022",
+      "duration": "99 minutes",
+      "genre": ["Comedy"],
+      "rating": 5.7
+    }
+  },
+  {
+    "id": 20,
+    "movieDetails": {
+      "name": "Nope",
+      "trailer": "https://www.youtube.com/watch?v=HUgmq_8PlRY",
+      "poster": "https://cdn.cinematerial.com/p/136x/n7utulcy/nope-movie-poster-sm.jpg?v=1658401467",
+      "summary": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
+      "release_date": "20-07-2022",
+      "duration": "130 minutes",
+      "genre": ["Horror", "Thriller", "Science", "Fiction"],
+      "rating": 6.9
+    }
+  },
+  {
+    "id": 21,
+    "movieDetails": {
+      "name": "Barbarian",
+      "trailer": "https://www.youtube.com/watch?v=Dr89pmKrqkI",
+      "poster": "https://cdn.cinematerial.com/p/136x/sijfzz4u/barbarian-movie-poster-sm.jpg?v=1662449403",
+      "summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+      "release_date": "08-09-2022",
+      "duration": "103 minutes",
+      "genre": ["Horror", "Thriller"],
+      "rating": 7.1
+    }
+  },
+  {
+    "id": 22,
+    "movieDetails": {
+      "name": "Bullet Train",
+      "trailer": "https://www.youtube.com/watch?v=0IOsk2Vlc4o",
+      "poster": "https://cdn.cinematerial.com/p/136x/cfckzxrd/bullet-train-movie-poster-sm.jpg?v=1658153554",
+      "summary": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe�all with connected, yet conflicting, objectives�on the world's fastest train.",
+      "release_date": "03-07-2022",
+      "duration": "127 minutes",
+      "genre": ["Action", "Comedy", "Thriller"],
+      "rating": 7.3
+    }
+  },
+  {
+    "id": 23,
+    "movieDetails": {
+      "name": "Drishyam 2",
+      "trailer": "https://www.youtube.com/watch?v=cxA2y9Tgl7o",
+      "poster": "https://cdn.cinematerial.com/p/136x/frr7teiy/drishyam-2-indian-movie-poster-sm.jpg?v=1665904605",
+      "summary": "7 years after the case related to Vijay Salgaonkar and his family was closed, a series of unexpected events bring truth to light that threatens to change everything for the Salgaonkars. Can Vijay save his family this time?",
+      "release_date": "18-11-2022",
+      "duration": "142 minutes",
+      "genre": ["Drama", "Thriller", "Crime", "Mystery"],
+      "rating": 8.7
+    }
+  },
+  {
+    "id": 24,
+    "movieDetails": {
+      "name": "X-Men",
+      "trailer": "https://www.youtube.com/watch?v=VNxwlx6etXI",
+      "poster": "https://cdn.cinematerial.com/p/136x/gdcdoaft/x-men-movie-poster-sm.jpg?v=1456192829",
+      "summary": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+      "release_date": "13-07-2000",
+      "duration": "104 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 6.6
+    }
+  },
+  {
+    "id": 25,
+    "movieDetails": {
+      "name": "Falling for Christmas",
+      "trailer": "https://www.youtube.com/watch?v=bsNIJd45jYM",
+      "poster": "https://cdn.cinematerial.com/p/297x/yytvgdj3/falling-for-christmas-movie-poster-md.jpg?v=1664808542",
+      "summary": "An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident.",
+      "release_date": "10-11-2022",
+      "duration": "95 minutes",
+      "genre": ["Comedy", "Romance"],
+      "rating": 5.2
+    }
+  },
+  {
+    "id": 26,
+    "movieDetails": {
+      "name": "She Said",
+      "trailer": "https://www.youtube.com/watch?v=i5pxUQecM3Y",
+      "poster": "https://cdn.cinematerial.com/p/136x/3g7yspoj/she-said-movie-poster-sm.jpg?v=1668146772",
+      "summary": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation � a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+      "release_date": "17-11-2022",
+      "duration": "129 minutes",
+      "genre": ["Drama"],
+      "rating": 7.4
+    }
+  },
+  {
+    "id": 27,
+    "movieDetails": {
+      "name": "Weird: The Al Yankovic Story",
+      "trailer": "https://www.youtube.com/watch?v=cCNKdJ2CIJk",
+      "poster": "https://cdn.cinematerial.com/p/136x/oaizajr7/weird-the-al-yankovic-story-movie-poster-sm.jpg?v=1658934648",
+      "summary": "Exploring every facet of �Weird Al� Yankovic�s life, from his meteoric rise to fame with early hits like �Eat It� and �Like a Surgeon� to his torrid celebrity love affairs and famously depraved lifestyle, this biopic takes audiences on a truly unbelievable journey through Yankovic�s life and career, from gifted child prodigy to the greatest musical legend of all time.",
+      "release_date": "08-09-2022",
+      "duration": " 108 minutes",
+      "genre": ["Drama"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 28,
+    "movieDetails": {
+      "name": "All American: Homecoming",
+      "trailer": "https://www.youtube.com/watch?v=S7GjVx2pQV0",
+      "poster": "https://cdn.cinematerial.com/p/297x/g10pgtpu/all-american-homecoming-movie-poster-md.jpg?v=1642747732",
+      "summary": "Follow the journeys of Simone Hicks, a tennis hopeful from Beverly Hills, and elite baseball player Damon Sims from Chicago, as they navigate life at the prestigious HBCU Bringston University.",
+      "release_date": "21-02-2022",
+      "duration": "121 minutes",
+      "genre": ["Drama"],
+      "rating": 7.8
+    }
+  },
+  {
+    "id": 29,
+    "movieDetails": {
+      "name": "The Whale",
+      "trailer": "https://www.youtube.com/watch?v=D30r0CwtIKc",
+      "poster": "https://cdn.cinematerial.com/p/297x/ucj6wiqv/the-whale-movie-poster-md.jpg?v=1667930407",
+      "summary": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+      "release_date": "09-12-2022",
+      "duration": "117 minutes",
+      "genre": ["Drama"],
+      "rating": 8.5
+    }
+  },
+  {
+    "id": 30,
+    "movieDetails": {
+      "name": "Top Gun: Maverick",
+      "trailer": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+      "poster": "https://cdn.cinematerial.com/p/136x/jvaxe1ci/top-gun-maverick-movie-poster-sm.jpg?v=1662440209",
+      "summary": "After more than thirty years of service as one of the Navy�s top aviators, and dodging the advancement in rank that would ground him, Pete �Maverick� Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "release_date": "24-05-2022",
+      "duration": "131 minutes",
+      "genre": ["Drama", "Action"],
+      "rating": 8.4
+    }
+  },
+  {
+    "id": 31,
+    "movieDetails": {
+      "name": "Enola Holmes 2",
+      "trailer": "https://www.youtube.com/watch?v=KKXNmYoPkx0",
+      "poster": "https://cdn.cinematerial.com/p/136x/9udhhvwr/enola-holmes-movie-poster-sm.jpg?v=1600322006",
+      "summary": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "release_date": "23-09-2020",
+      "duration": "123 minutes",
+      "genre": ["Adventure", "Action", "Comedy", "Crime"],
+      "rating": 6.8
+    }
+  },
+
+  {
+    "id": 33,
+    "movieDetails": {
+      "name": "Christmas with You",
+      "trailer": "https://www.youtube.com/watch?v=BYti8tb3rmI",
+      "poster": "https://cdn.cinematerial.com/p/297x/zv001hia/christmas-with-you-movie-poster-md.jpg?v=1666231236",
+      "summary": "Feeling career burnout, pop star Angelina escapes to grant a young fan's wish in small-town New York, where she not only finds the inspiration to revitalize her career but also a shot at true love",
+      "release_date": "17-11-2022",
+      "duration": "91 minutes",
+      "genre": ["Comedy", "Romance"],
+      "rating": 5.5
+    }
+  },
+  {
+    "id": 34,
+    "movieDetails": {
+      "name": "The Noel Diary",
+      "trailer": "https://www.youtube.com/watch?v=asH6ny4ILzM",
+      "poster": "https://cdn.cinematerial.com/p/297x/3zjupivp/the-noel-diary-movie-poster-md.jpg?v=1667554845",
+      "summary": "Cleaning out his childhood home at Christmas, a novelist meets a woman searching for her birth mother. Will an old diary unlock their pasts � and hearts?",
+      "release_date": "24-11-2022",
+      "duration": "99 minutes",
+      "genre": ["Drama", "Comedy", "Romance"],
+      "rating": 6.2
+    }
+  },
+  {
+    "id": 35,
+    "movieDetails": {
+      "name": "The Banshees of Inisherin",
+      "trailer": "https://www.youtube.com/watch?v=uRu3zLOJN2c",
+      "poster": "https://cdn.cinematerial.com/p/297x/4bbiszjo/the-banshees-of-inisherin-movie-poster-md.jpg?v=1659620263",
+      "summary": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+      "release_date": "21-10-2022",
+      "duration": "114 minutes",
+      "genre": ["Drama", "Comedy"],
+      "rating": 8.2
+    }
+  },
+  {
+    "id": 36,
+    "movieDetails": {
+      "name": "Devotion",
+      "trailer": "https://www.youtube.com/watch?v=NCDEGP6VjYY",
+      "poster": "https://cdn.cinematerial.com/p/297x/cyizkyxj/devotion-movie-poster-md.jpg?v=1659379221",
+      "summary": "The harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen.",
+      "release_date": "23-11-2022",
+      "duration": "138 minutes",
+      "genre": ["Drama", "History", "War"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 37,
+    "movieDetails": {
+      "name": "Everything Everywhere All at Once",
+      "trailer": "https://www.youtube.com/watch?v=wxN1T1uxQ2g",
+      "poster": "https://cdn.cinematerial.com/p/297x/ckamivwa/everything-everywhere-all-at-once-movie-poster-md.jpg?v=1646776812",
+      "summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+      "release_date": "24-03-2022",
+      "duration": "140 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 8.1
+    }
+  },
+  {
+    "id": 38,
+    "movieDetails": {
+      "name": "Amsterdam",
+      "trailer": "https://www.youtube.com/watch?v=GLs2xxM0e78",
+      "poster": "https://cdn.cinematerial.com/p/136x/kxwwxxcm/amsterdam-movie-poster-sm.jpg?v=1662996990",
+      "summary": "In the 1930s, three friends�a doctor, a nurse, and an attorney�witness a murder, become suspects themselves and uncover one of the most outrageous plots in North American history.",
+      "release_date": "27-09-2022",
+      "duration": "134 minutes",
+      "genre": ["Comedy", "History", "Thriller", "Crime"],
+      "rating": 6.1
+    }
+  },
+  {
+    "id": 39,
+    "movieDetails": {
+      "name": "Terrifier 2",
+      "trailer": "https://www.youtube.com/watch?v=6KkONLf_ZKU",
+      "poster": "https://cdn.cinematerial.com/p/297x/glfxhlqk/terrifier-movie-poster-md.jpg?v=1524846103",
+      "summary": "On Halloween night, a young woman finds herself as the obsession of a sadistic murderer known as Art the Clown.",
+      "release_date": "15-03-2016",
+      "duration": "84 minutes",
+      "genre": ["Horror", "Thriller"],
+      "rating": 6.3
+    }
+  },
+  {
+    "id": 40,
+    "movieDetails": {
+      "name": "Knives Out",
+      "trailer": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
+      "poster": "https://cdn.cinematerial.com/p/297x/cdcin9ax/knives-out-movie-poster-md.jpg?v=1574412342",
+      "summary": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+      "release_date": "27-11-2019",
+      "duration": "131 minutes",
+      "genre": ["Comedy", "Crime", "Mystery"],
+      "rating": 7.9
+    }
+  },
+  {
+    "id": 41,
+    "movieDetails": {
+      "name": "Tár",
+      "trailer": "https://www.youtube.com/watch?v=Na6gA1RehsU",
+      "poster": "https://cdn.cinematerial.com/p/136x/v0nyvlmo/tar-movie-poster-sm.jpg?v=1667300352",
+      "summary": "Renowned musician Lydia Tar is days away from recording the symphony that will elevate her career. When all elements seem to conspire against her, Lydia's adopted daughter Petra becomes an integral emotional support for her struggling mother",
+      "release_date": "07-10-2022",
+      "duration": "158 minutes",
+      "genre": ["Drama", "Music"],
+      "rating": 7.9
+    }
+  },
+  {
+    "id": 42,
+    "movieDetails": {
+      "name": "See How They Run",
+      "trailer": "https://www.youtube.com/watch?v=Q00qh7Ab6Mk",
+      "poster": "https://cdn.cinematerial.com/p/297x/fq4jam2y/see-how-they-run-movie-poster-md.jpg?v=1656512790",
+      "summary": "In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.",
+      "release_date": "09-09-2022",
+      "duration": "98 minutes",
+      "genre": ["Comedy", "Thriller", "Mystery"],
+      "rating": 6.5
+    }
+  },
+  {
+    "id": 43,
+    "movieDetails": {
+      "name": "Guillermo del Toro's Pinocchio",
+      "trailer": "https://www.youtube.com/watch?v=Od2NW1sfRdA",
+      "poster": "https://cdn.cinematerial.com/p/297x/b62wjzb1/guillermo-del-toros-pinocchio-movie-poster-md.jpg?v=1668685989",
+      "summary": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+      "release_date": "09-11-2022",
+      "duration": "117 minutes",
+      "genre": ["Fantasy", "Drama"],
+      "rating": 8.1
+    }
+  },
+  {
+    "id": 44,
+    "movieDetails": {
+      "name": "Armageddon Time",
+      "trailer": "https://www.youtube.com/watch?v=ZKLu3t-G9Do",
+      "poster": "https://cdn.cinematerial.com/p/297x/md6rwjd3/armageddon-time-movie-poster-md.jpg?v=1666714336",
+      "summary": "In 1980, Queens, New York, a young Jewish boy befriends a rebellious African-American classmate to the disapproval of his privileged family and begins to reckon with growing up in a world of inequality and prejudice.",
+      "release_date": "28-10-2022",
+      "duration": "114 minutes",
+      "genre": ["Drama"],
+      "rating": 6.8
+    }
+  },
+  {
+    "id": 45,
+    "movieDetails": {
+      "name": "Kantara",
+      "trailer": "https://www.youtube.com/watch?v=8mrVmf239GU",
+      "poster": "https://cdn.cinematerial.com/p/136x/edgziast/kantara-indian-movie-poster-sm.jpg?v=1669657335",
+      "summary": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+      "release_date": "30-09-2022",
+      "duration": "147 minutes",
+      "genre": ["Action", "Thriller", "Mystery"],
+      "rating": 8.8
+    }
+  },
+  {
+    "id": 46,
+    "movieDetails": {
+      "name": "Avatar",
+      "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY",
+      "poster": "https://cdn.cinematerial.com/p/136x/flxsfhmz/avatar-movie-poster-sm.jpg?v=1456063182",
+      "summary": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+      "release_date": "15-12-2009",
+      "duration": "162 minutes",
+      "genre": ["Adventure", "Fantasy", "Action", "Science"],
+      "rating": 7.8
+    }
+  },
+  {
+    "id": 47,
+    "movieDetails": {
+      "name": "Violent Night",
+      "trailer": "https://www.youtube.com/watch?v=a53e4HHnx_s",
+      "poster": "https://cdn.cinematerial.com/p/136x/jxpvbf6e/violent-night-movie-poster-sm.jpg?v=1668809186",
+      "summary": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn�t prepared for a surprise combatant: Santa Claus is on the grounds, and he�s about to show why this Nick is no saint.",
+      "release_date": "30-11-2022",
+      "duration": "112 minutes",
+      "genre": ["Action", "Comedy"],
+      "rating": 7.1
+    }
+  },
+  {
+    "id": 48,
+    "movieDetails": {
+      "name": "Indiana Jones and the Dial of Destiny",
+      "trailer": "https://www.youtube.com/watch?v=ZfVYgWYaHmE",
+      "poster": "https://cdn.cinematerial.com/p/136x/amywtdlm/indiana-jones-and-the-dial-of-destiny-movie-poster-sm.jpg?v=1669930107",
+      "summary": "Set against the backdrop of the space race of 1969, the American effort to beat the Russians to the moon brings some uncomfortable truths for Indy.",
+      "release_date": "28-06-2023",
+      "duration": "138 minutes",
+      "genre": ["Adventure", "Action"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 49,
+    "movieDetails": {
+      "name": "R.I.P.D. ",
+      "trailer": "https://www.youtube.com/watch?v=nt59JjtWFSU",
+      "poster": "https://cdn.cinematerial.com/p/136x/q1hytmak/rip-tide-movie-cover-sm.jpg?v=1600655136",
+      "summary": "There comes a point in everyone�s life when you have to make a decision about the direction you�re going to take. For newly-18 American fashion model Cora, that time is now. She�s moved to an Australian coastal town to be with her favourite aunt, after a 'fashion faux pas� back home",
+      "release_date": "03-10-2017",
+      "duration": "85 minutes",
+      "genre": ["Drama"],
+      "rating": 4.5
+    }
+  },
+  {
+    "id": 50,
+    "movieDetails": {
+      "name": "Inside",
+      "trailer": "https://www.youtube.com/watch?v=DjODCllZj4w",
+      "poster": "https://cdn.cinematerial.com/p/297x/qukiswft/inside-spanish-movie-poster-md.jpg?v=1496355279",
+      "summary": "Completely on her own, Sarah spends her time at home, waiting for the approaching birth of her child. But one night, a stranger breaks into her home, ready to snatch her still unborn baby from her.",
+      "release_date": "14-02-2016",
+      "duration": "85 minutes",
+      "genre": ["Horror", "Thriller"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 51,
+    "movieDetails": {
+      "name": "The Addams Family - 2",
+      "trailer": "https://www.youtube.com/watch?v=A6X4VAHdDVg",
+      "poster": "https://cdn.cinematerial.com/p/297x/uqkrflyd/the-addams-family-2-movie-poster-md.jpg?v=1625641291",
+      "summary": "The Addams get tangled up in more wacky adventures and find themselves involved in hilarious run-ins with all sorts of unsuspecting characters.",
+      "release_date": "01-10-2021",
+      "duration": "93 minutes",
+      "genre": ["Adventure", "Fantasy", "Horror", "Comedy"],
+      "rating": 6.9
+    }
+  },
+  {
+    "id": 52,
+    "movieDetails": {
+      "name": "Tumbad",
+      "trailer": "https://www.youtube.com/watch?v=sN75MPxgvX8",
+      "poster": "https://cdn.cinematerial.com/p/136x/dewk4vtc/tumbbad-indian-movie-poster-sm.jpg?v=1539325970",
+      "summary": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+      "release_date": "12-10-2018",
+      "duration": "113 minutes",
+      "genre": ["Fantasy", "Horror"],
+      "rating": 7.7
+    }
+  },
+  {
+    "id": 53,
+    "movieDetails": {
+      "name": "Poker Face",
+      "trailer": "https://www.youtube.com/watch?v=JAZV5DxV3Gw",
+      "poster": "https://cdn.cinematerial.com/p/297x/2onbglbw/poker-face-movie-poster-md.jpg?v=1667352895",
+      "summary": "A yearly high-stakes poker game between childhood friends turns into chaos when the tech billionaire host unveils an elaborate scheme to seek revenge for the ways they've betrayed him over the years. But as his plans unfold, a group of thieves hatch plans of their own breaking into the mansion thinking it is empty. The old friends quickly band together and the years of playing the game help them win their way through a night of terror.",
+      "release_date": "16-11-2022",
+      "duration": "95 minutes",
+      "genre": ["Drama", "Thriller"],
+      "rating": 5.1
+    }
+  },
+  {
+    "id": 54,
+    "movieDetails": {
+      "name": "Pearl",
+      "trailer": "https://www.youtube.com/watch?v=L5PW5r3pEOg",
+      "poster": "https://cdn.cinematerial.com/p/136x/u4h8immg/pearl-movie-poster-sm.jpg?v=1663619662",
+      "summary": "In 1918, Pearl, trapped on her family�s isolated Texas homestead, must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she�s seen in the movies, Pearl�s ambitions, temptations and repressions collide in a terrifying climax.",
+      "release_date": "16-09-2022",
+      "duration": "102 minutes",
+      "genre": ["Horror"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 55,
+    "movieDetails": {
+      "name": "The Woman King",
+      "trailer": "https://www.youtube.com/watch?v=3RDaPV_rJ1Y",
+      "poster": "https://cdn.cinematerial.com/p/297x/2q1c06yg/the-woman-king-movie-poster-md.jpg?v=1661884183",
+      "summary": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+      "release_date": "15-09-2022",
+      "duration": "135 minutes",
+      "genre": ["Drama", "Action", "History"],
+      "rating": 6.7
+    }
+  },
+  {
+    "id": 56,
+    "movieDetails": {
+      "name": "The Good Nurse",
+      "trailer": "https://www.youtube.com/watch?v=e0DQevX-GZs",
+      "poster": "https://cdn.cinematerial.com/p/136x/vuainect/the-good-nurse-movie-poster-sm.jpg?v=1668874276",
+      "summary": "Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth",
+      "release_date": "19-10-2022",
+      "duration": "121 minutes",
+      "genre": ["Drama", "Crime", "Mystery"],
+      "rating": 6.8
+    }
+  },
+  {
+    "id": 57,
+    "movieDetails": {
+      "name": "Thor: Love and Thunder",
+      "trailer": "https://www.youtube.com/watch?v=Go8nTmfrQd8",
+      "poster": "https://cdn.cinematerial.com/p/136x/sclbqker/thor-love-and-thunder-movie-poster-sm.jpg?v=1650291168",
+      "summary": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher�s vengeance and stop him before it�s too late.",
+      "release_date": "06-07-2022",
+      "duration": "119 minutes",
+      "genre": ["Fantasy", "Action", "Comedy"],
+      "rating": 6.3
+    }
+  },
+  {
+    "id": 58,
+    "movieDetails": {
+      "name": "Kaithi",
+      "trailer": "https://www.youtube.com/watch?v=g79CvhHaj5I",
+      "poster": "https://cdn.cinematerial.com/p/297x/5tzjn8cy/kaithi-indian-movie-poster-md.jpg?v=1571466426",
+      "summary": "Dilli, a convicted criminal, is out on parole to meet his daughter. However, a drug bust sets him off on a mission to save the life of police officers.",
+      "release_date": "25-10-2019",
+      "duration": "147 minutes",
+      "genre": ["Action", "Thriller"],
+      "rating": 5.2
+    }
+  },
+  {
+    "id": 59,
+    "movieDetails": {
+      "name": "Stutz",
+      "trailer": "https://www.youtube.com/watch?v=UKCmefQdplI",
+      "poster": "https://cdn.cinematerial.com/p/297x/mkeh0wl4/stutz-movie-poster-md.jpg?v=1667047138",
+      "summary": "In candid conversations with actor Jonah Hill, leading psychiatrist Phil Stutz explores his early life experiences and unique, visual model of therapy.",
+      "release_date": "14-11-2022",
+      "duration": "96 minute",
+      "genre": ["Documentary"],
+      "rating": 8.1
+    }
+  },
+  {
+    "id": 60,
+    "movieDetails": {
+      "name": "The Godfather",
+      "trailer": "https://www.youtube.com/watch?v=UaVTIH8mujA",
+      "poster": "https://cdn.cinematerial.com/p/136x/1suyyfwy/the-godfather-movie-poster-sm.jpg?v=1456733600",
+      "summary": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "release_date": "14-03-1972",
+      "duration": "175 minutes",
+      "genre": ["Drama", "Crime"],
+      "rating": 9.2
+    }
+  },
+  {
+    "id": 61,
+    "movieDetails": {
+      "name": "The Batman",
+      "trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+      "poster": "https://cdn.cinematerial.com/p/297x/nt44myfb/the-batman-movie-poster-md.jpg?v=1643195236",
+      "summary": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "release_date": "01-03-2022",
+      "duration": "177 minutes",
+      "genre": ["Thriller", "Crime", "Mystery"],
+      "rating": 7.9
+    }
+  },
+  {
+    "id": 62,
+    "movieDetails": {
+      "name": "Babylon",
+      "trailer": "https://www.youtube.com/watch?v=5muQK7CuFtY",
+      "poster": "https://cdn.cinematerial.com/p/297x/mjtyuefh/babylon-movie-poster-md.jpg?v=1669644247",
+      "summary": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+      "release_date": "23-12-2022",
+      "duration": "189 minutes",
+      "genre": ["Drama", "Comedy"],
+      "rating": 6.4
+    }
+  },
+  {
+    "id": 63,
+    "movieDetails": {
+      "name": "Ticket to Paradise",
+      "trailer": "https://www.youtube.com/watch?v=Gv3sUvGUkNM",
+      "poster": "https://cdn.cinematerial.com/p/297x/zuqvdhsv/ticket-to-paradise-movie-poster-md.jpg?v=1659541796",
+      "summary": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago",
+      "release_date": "08-09-2022",
+      "duration": "104 minutes",
+      "genre": ["Comedy", "Romance"],
+      "rating": 6.2
+    }
+  },
+  {
+    "id": 64,
+    "movieDetails": {
+      "name": "Enola Holmes",
+      "trailer": "https://www.youtube.com/watch?v=1d0Zf9sXlHk",
+      "poster": "https://cdn.cinematerial.com/p/297x/l0x7blw0/enola-holmes-movie-poster-md.jpg?v=1600325903",
+      "summary": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "release_date": "23-09-2020",
+      "duration": "123 minutes",
+      "genre": ["Adventure", "Action", "Comedy", "Crime"],
+      "rating": 6.6
+    }
+  },
+  {
+    "id": 65,
+    "movieDetails": {
+      "name": "The Northman",
+      "trailer": "https://www.youtube.com/watch?v=oMSdFM12hOw",
+      "poster": "https://cdn.cinematerial.com/p/297x/xdjtp2kt/the-northman-movie-poster-md.jpg?v=1648567125",
+      "summary": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+      "release_date": "07-04-2022",
+      "duration": "137 minutes",
+      "genre": ["Adventure", "Fantasy", "Action"],
+      "rating": 7.1
+    }
+  },
+  {
+    "id": 66,
+    "movieDetails": {
+      "name": "Matilda the Musical",
+      "trailer": "https://cdn.cinematerial.com/p/297x/g2zzr8mm/matilda-british-movie-poster-md.jpg?v=1666148526",
+      "poster": "https://cdn.cinematerial.com/p/297x/g2zzr8mm/matilda-british-movie-poster-md.jpg?v=1666148526",
+      "summary": "An extraordinary young girl discovers her superpower and summons the remarkable courage, against all odds, to help others change their stories, whilst also taking charge of her own destiny. Standing up for what's right, she's met with miraculous results.",
+      "release_date": "25-11-2022",
+      "duration": "117 minutes",
+      "genre": ["Fantasy", "Comedy"],
+      "rating": 7.5
+    }
+  },
+  {
+    "id": 67,
+    "movieDetails": {
+      "name": "Lyle, Lyle, Crocodile",
+      "trailer": "https://www.youtube.com/watch?v=jEqWgpRblgw",
+      "poster": "https://cdn.cinematerial.com/p/297x/xcv7fhyv/warhunt-movie-poster-md.jpg?v=1622616031",
+      "summary": "1945. A U.S. military cargo plane loses control and violently crashes behind enemy lines in the middle of the German black forest. Major Johnson sends a squad of his bravest soldiers on a rescue mission to retrieve the top-secret material the plane was carrying, led by Sergeants Brewer and Walsh. They soon discover hanged Nazi soldiers and other dead bodies bearing ancient, magical symbols. Suddenly their compasses fail, their perceptions twist and straying from the group leads to profound horrors as they are attacked by a powerful, supernatural force.",
+      "release_date": "21-01-2022",
+      "duration": "93 minutes",
+      "genre": ["Fantasy", "Horror", "Action", "Thriller"],
+      "rating": 6.1
+    }
+  },
+  {
+    "id": 68,
+    "movieDetails": {
+      "name": "My Policeman",
+      "trailer": "https://www.youtube.com/watch?v=xAEgWXOH1mY",
+      "poster": "https://cdn.cinematerial.com/p/297x/lbm9f54r/my-policeman-movie-poster-md.jpg?v=1655314596",
+      "summary": "In the late 1990s, the arrival of elderly invalid Patrick into Marion and Tom�s home triggers the exploration of seismic events from 40 years previous: the passionate relationship between Tom and Patrick at a time when homosexuality was illegal.",
+      "release_date": "21-10-2022",
+      "duration": "113 minutes",
+      "genre": ["Drama", "Romance"],
+      "rating": 6.5
+    }
+  },
+  {
+    "id": 69,
+    "movieDetails": {
+      "name": "Elf",
+      "trailer": "https://www.youtube.com/watch?v=14o38xfHlXc",
+      "poster": "https://cdn.cinematerial.com/p/297x/qsnqolo5/elf-theatrical-movie-poster-md.jpg?v=1482643595",
+      "summary": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic publisher.",
+      "release_date": "09-10-2003",
+      "duration": "97 minutes",
+      "genre": ["Fantasy", "Comedy"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 70,
+    "movieDetails": {
+      "name": "The Swimmers",
+      "trailer": "https://www.youtube.com/watch?v=ObN4krVV20Y",
+      "poster": "https://cdn.cinematerial.com/p/297x/bsh9etge/the-swimmers-movie-poster-md.jpg?v=1663022775",
+      "summary": "From war-torn Syria to the 2016 Rio Olympics, two young sisters embark on a risky voyage, putting their hearts and their swimming skills to heroic use",
+      "release_date": "24-11-2022",
+      "duration": "134 minutes",
+      "genre": ["Drama", "History"],
+      "rating": 7.5
+    }
+  },
+  {
+    "id": 71,
+    "movieDetails": {
+      "name": "Love Actually",
+      "trailer": "https://www.youtube.com/watch?v=H9Z3_ifFheQ",
+      "poster": "https://cdn.cinematerial.com/p/136x/ememh1wk/love-actually-british-movie-poster-sm.jpg?v=1456180571",
+      "summary": "'Love Actually' follows the lives of eight very different couples dealing with their love lives, in various loosely and interrelated tales, all set during a frantic month before Christmas in London, England.",
+      "release_date": "07-09-2003",
+      "duration": "135 minutes",
+      "genre": ["Drama", "Comedy", "Romance"],
+      "rating": 7.6
+    }
+  },
+  {
+    "id": 72,
+    "movieDetails": {
+      "name": "khiladi 786",
+      "trailer": "https://www.youtube.com/watch?v=ncmScAvN7Cg",
+      "poster": "https://cdn.cinematerial.com/p/297x/lo1cbjza/khiladi-786-indian-movie-poster-md.jpg?v=1456614052",
+      "summary": "A father who runs a marriage bureau believes that his son is a failure in life. In order to prove him wrong, his son takes on the task of finding a match for a gangster's sister.",
+      "release_date": "07-12-2012",
+      "duration": "139 minutes",
+      "genre": ["Action", "Comedy"],
+      "rating": 6.5
+    }
+  },
+  {
+    "id": 73,
+    "movieDetails": {
+      "name": "Till",
+      "trailer": "https://www.youtube.com/watch?v=rkQi6GBwmSA",
+      "poster": "https://cdn.cinematerial.com/p/297x/ei3b9mcq/till-movie-poster-md.jpg?v=1664350531",
+      "summary": "The true story of Mamie Till Mobley�s relentless pursuit of justice for her 14 year old son, Emmett Till, who, in 1955, was lynched while visiting his cousins in Mississippi.",
+      "release_date": "14-10-2022",
+      "duration": "130 minutes",
+      "genre": ["Drama", "History"],
+      "rating": 7.2
+    }
+  },
+  {
+    "id": 74,
+    "movieDetails": {
+      "name": "Kick",
+      "trailer": "https://www.youtube.com/watch?v=u-j1nx_HY5o",
+      "poster": "https://cdn.cinematerial.com/p/297x/nds1in5d/kick-indian-movie-poster-md.jpg?v=1456446442",
+      "summary": "An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster.",
+      "release_date": "25-07-2014",
+      "duration": "146 minutes",
+      "genre": ["Action", "Comedy", "Crime", "Romance"],
+      "rating": 7.2
+    }
+  },
+  {
+    "id": 75,
+    "movieDetails": {
+      "name": "Addams Family Values",
+      "trailer": "https://www.youtube.com/watch?v=EisokUNMfeA",
+      "poster": "https://cdn.cinematerial.com/p/136x/hmqrghvf/addams-family-values-movie-poster-sm.jpg?v=1530899839",
+      "summary": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+      "release_date": "19-11-1993",
+      "duration": "94 minutes",
+      "genre": ["Fantasy", "Comedy"],
+      "rating": 6.8
+    }
+  },
+  {
+    "id": 76,
+    "movieDetails": {
+      "name": "avangers",
+      "trailer": "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+      "poster": "data:image/jpeg;base64,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",
+      "summary": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "release_date": "25-04-2012",
+      "duration": "143 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 8
+    }
+  },
+  {
+    "id": 77,
+    "movieDetails": {
+      "name": "Top Gun",
+      "trailer": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+      "poster": "https://cdn.cinematerial.com/p/297x/nza9lluu/top-gun-maverick-movie-poster-md.jpg?v=1648561333",
+      "summary": "After more than thirty years of service as one of the Navy�s top aviators, and dodging the advancement in rank that would ground him, Pete �Maverick� Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+      "release_date": "24-05-2022",
+      "duration": "131 minutes",
+      "genre": ["Drama", "Action"],
+      "rating": 6.9
+    }
+  },
+  {
+    "id": 78,
+    "movieDetails": {
+      "name": "Black Panther",
+      "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+      "poster": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUExYUFBQXFhYYGR8cGRkXGB0gHRwZIRkcHxkcHB8hHyoiHB8nHRwZIzUkJysuMTExHyE2OzYwOiowMS4BCwsLDw4PHRERHTAnIiQwMjAwODIwODAwMDAwMDgyMDAwMDgwMDAwMDAwMDAwLjAwMDAwMDAwMDAwMDAwMDAwMP/AABEIARMAtwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAIDBQYBBwj/xABFEAACAQIEAwYDBQYFAwIHAQABAhEDIQAEEjEFQVEGEyJhcYEykaFCscHR8AcUI1KC4TNicqLxFSSSc7JDU2OTs8LSJf/EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EAC0RAAICAgIBAwQABQUAAAAAAAABAhESIQMxURNBYQQicYFCscHw8RQyQ4Kh/9oADAMBAAIRAxEAPwDcrlx0xC6gHE1SppudvPbFdnc6HsDA+/18sUots4WkD53NajCm334FMjHO6E7x+PpjuhjsD+ueOiLS0jNxfuRs98Pnnh4ogDr84w2tQYKG5GfobyMXkiHBkRfHFbC08ztiSmQLxhSlQlDySIxwRSazeQn6jEFJlO333+WJqUeLzWJ9/lyxllejaMaGmoPQ+uO1Km34f2wBUYm9h6YcsHxE28rmf1zxbiMOav0xyne84ESZ6DBIqgDkMJproLvsfo64eo6C+BzmLxPsAfpg3I19L02I8OqxibiTfn7eWNHKkOMU2MZBfVYjqNv154HqMOhwXxqqwqajfX4uljgEVg29owRdqypKnRI1QaB8VjaeXXyH98NassSpI6gqOX+bVJ+X3YlraSggbnl7RiAUgBf5fmcSuiq2Ru4mRiEaeeJqgGyrA5nDMvQBkASfKfryHPCcklZLQq9UKIETz52wsCtk3LEb4WJuPkm34NA+aaAppBwLTA/FTgHMMpYAI6AxyBF/TSPPE6cUW2pSvmI+UkHE1YgSCYaAQNESCRsUMDfnjFaRs1fRW1YVgJJHUrF725jYYfVzOlSZsLkbD8v+cGU1Y3WWWTKqSYIA3BBF5EehHLAHFc0HphHpmnqMEhUVoG+kimt9uo64qNvZDjRLQzBZWgSGUEeexEW9dsdz7stKmD/M8jbpt/NHXa8YrMznMtkgFahUr1LEVe+0AggMv+iBpMNtyJjFvlqtLMURUIXUaYYslypAkrUVZiBzA6yOZeaTtrRXpNqk9lcQW2t644rROCFy2lHJBEKrKeRBZRvHMMDgVqRgMZAOxixvBi94ON1JP8GHptdiWpcztGDMoSZkztgM0iQLGCReCN/Pb64ly76SYG9jLARuRufXClTLUdHauYItz2NsRoeZ5eceZ9fTDqtGCQbGYIPW8/Ub4kbK2nyPX2wJxSBxbGd8D+jhurz+mCKOWI5cucfnffB+T7mmuuqQADEAbkjb15+gwSnSHGF9lZRrCSLTi0NMjLJUsNVaVO8gKV++be+LPi9FSGVSzCRpBJPykmOeKxGH7voJsHVhbYNMj5rjHPKn8mihi2O4qwrd2xtCad5kz/cYFbJmCYtvYnptgDM9qe5d6RpMFAkk1BBEfZWLza0zv0jFnwnPPVpnSogmajF4RASdKhRJPhAsAJM9ZLXIo0i/TydjVFo8pjnhrFWaVEADlcfjgvLaJJMT6HraLDe1vvxzOOqgeECDeInCz2DjQIuU1W/X62wQvDwpAn2+vvgN81O2/WOW/l1mx64Y3EXhQBIgTq/Ec+WFO5IiohVamyiyCCeY394v/wAYWB1z7/DpN7gACInpEcsLGWPwO4keVrkMHAAUkSDMDb/y2bbpHrbZnPs2oFwEDEbKSBJ/yzFhjOJmyo0kafDyUAqRbxWBJJGqTeG88T5jihNNGKo1wrTBMTY7aoj/ADR0AEYmpWUkkgjI5tjUrAeIspYeEXNOdMWj4SV/qwLx7UGpamY/EQGBEfDPkfb8cQ8OY94AOkEXJIO/0n54jz9Rm7skkgC3lOnb6Y2g6lRE3cTQcMRKlJTUqWVIKllgBSbkEWGkrJwNS7L0UZmy9U0dQg6CCCDcyqgczNrYh7M5wrWPQpBmdtY6b7nBJq1qhmklLaBp7qbjox1SbnCk9tMuC0mgujwwrS0GozmNKEgCF1K0XiRI684wBmqZUWHOSIUr8yTJkdTHTE2W4pUR3p1lTvFkXVRsJjwqBv1w3NcTB1eBVEQdmaLmVkQD8sJNoU6ffYFw9SuXqX3dRt5MRsOq4kVSPCdypiJuZUf/ALE+pxzg7+GrckLpfTAOrxFYuCBZjyONTwatTjUqlRqmOlhIgQPOw54HOtUNRT9zK8ZolarkCFYhpPUgEx0uTiark6lNQ2saWm6mRI9YPMbYfxripSqwZL6iZE2gsDpIIMiDsRzxLUzpek6MSdNUwYExpgj7saZOkS4K2R5DOgC+pieakNtv4LMo+flbDOIZ06EOj7QNwxAMGCDq/GNsV9WlcFgRCjTNtXi39II58sLihhlEsQOu3La53/LA0mxW0XtKmz0kMkFUiTsYEm+q0i8ECdxgfh+eKsImAsQpM7yD677eeJaFSoaMIrE6V+HpoQE+0325YrGcg/Lf1GIjtUVO07RZZ2rQqEisgK73Akn1kGb/AF6Yz1RXy1VauXMUyTIe6X+yx2UHq0KLSTg9+JLUqPQFPxqZ8YFwBuPFJABB5XgeYlo5fyjoBvJHSek7E++HUJIeUo0PPGldgjIaVVvsmCsQdjtEjfbzBgYlq1CBogEwPT0MwPPAOapAgA2KwVJUagRzmAQOXpzxJma4qGYKsTy226R1/VsKEGvwOU0+h1LvGbTHzsNtvLkYnDq1NqMd4BJmDPlbYxzn+n1kegrgwSYg/T+4GH8RcqEMAyDv7efni33RnqrIszW2IEDnFv1v0OFgepULSTYct45WGFisTF3ZC9Z1FoQlQRcSREg++GNXZtQEEA2MRPTrBtgzPUu8FLRpnQBI1cneALEi33emGJSZQJQCD4rG4ItJCnY9esenOnr5OlLz0coVBqU2MNNhBs2OUWFV1UlEYncwiW5dBYc8QFgOUHn5YgqP4m97R5+Q+/GkYkX5LzIUlp1tOtWOkiaZDg87RIxYZcEEwtURGnVvznZRik4T/jA/yyZkztA2iLkX+dsaegIQaSwUcgU0zziF6nrjn5ezbjugHtBWpjMuzqwDqrCBO6CbFlvP3G2OJSq1aVQkh0E6S7LrEXiC0xB2H1FjH2kQFFefEp0kTPha68+TAj+sYGpK6AFzpVjz3Atcj0BxSppMb02c4O2kVPh+FPisNz+vWMbTh7wlJR/hsrksCukHUComOYLfLGJ4Y8h4AHhBkxAgHfkPXFd2u4vWVXFKoj5c5emjhYKMe8rK0GIBQMjf0ri8cpUKPRq+N9maleuXpmmFZebD4oOoWvvJ2wv+hVaZZmNIhzN3gQzJBsQYmB7jHi1KpVZtVNqgKNDwTYGyuelzE9YxY1uP5p1CVarMkhBP8pCsRPMzp38sdEeJ12S1s3vEKLIXuri58JYrZ9MiTe9r4H4kZZDM2NoIi46j7sd7P5d6tCgrOCahqqxIsDqFWPSTy+uJc/SKVTTMSoG228nfEfxEuNaLrhFVhSGgw0GLkWgA3HoLRipybSyTG6n/AHDfywXkc8QigaZIZYJj3GIsvknBGmSAPiGnfyAYketsZx03Y526ol4oKVbQO7ipTcMKitpOlgdQEAgwDNzEgCIvg7KZoq4lg40uB4YtoIFvWD74rzpU6WZtZu3SLmCTfnB9MEZdak+FkKDYO6D5AkHfAoIMn7jqiqpKAqQCLmWP3EdemJ+FVFZmLgaepDQPUrYbDfEVBdJA7osswYBKzvutjziPkcEfvorL3YoBFgxoAsYI1EncxO+HJ0hwjsj4pTCOdLKSZYww6ecGIJ36Yr+IVmhYM+UenkZ2xO2bqIIV+YJOkXI2/D5DFfnqrOQDoEdQY/2qbfn8nC/cORJdDKmZDAbgjcfryjHMFcR4XVpBe8Qgn4bhgR5XI5jocLDs5mpWO4KJVR0m9rw0/cfPANfPp3lRWU7suoOw5nkAeeLXsrcARsWPlcAfq34YpuNZNqdeot7O0SIkajBHUeeOaG5tHbLUET5Rz3Ak3Mg+dyBPXc/M4GouBUdSNQYRvo0yZ5Tr9THtg/heXeAlPSGIvOsbSTqOiBF+eBOM1qFFiXqloP2VGo2vabCebEHyGLj20RJWkyX920Fj3YZSwAJ1cgNoYc2G/liyycU6ZLhaax8THSN5+1c26XtjIZ3tsg/wQqkzshdh5liQFPmFO2MtneO1Hcmo4ax/xTqBkRssmRMiSYMemNPRb3Jl3XR6DX7Z5RG0U5qsbHSNK7g3JG0jy5YC4t27JQ6qeWtqZfETspIXwOfETAE2v7487qOgMNUMdAoT75+ZGCaWSR1CrSYBmGms7Ha3hjSEOzed97YqPHHpLYnJs0XGeOPVywgLTJMsiaoYQIJJMmPbEn7OqwqLmcu6moWKFZvAIdahHnAWPU4Hy/BGbLMgH8anUgvqtDbX6bz6YA7JsXraGOhaiPSkWILoYIHryHXF0nLWqEtDVya1aznL6viOukY1jSZ1qAYdZH2ZZbyI8RdVy4U95UPgRjC7a6sCFHMADSWPIaeZAwNQr1BV0t3dOvTq3YeAO6aVZGKlQJ0Tf4iXuCwxLxBHWq3eFWMTSDlSS1QJM76VWGJPhMxe+GuV1QUem9nT3mXp1BNI06rHu2VlKM1FdVNdUlRfUurkwEjAXHqBFdyCW+EzEbqDeGP38sZfs52jOVUUK6HQyiq4BAYFnIERYEqQ0QbfTXN3VRRUpo1ekb/w3CqpMeFgBIcbHUZtiJJp5eSZbQJk6rC8EjlpIsSQb/8Aj8O/43tLiBAl0qIIsxIj20memwxSCq1MqVTuyARI3IP83Jvly2tjhOuWLQfK30xLjYkWFMU6uYFMgkMIXxRLyWMGDYzPO5tvi5/c8uDpqIlEx8T1vCR0HiB99PPGYamrJpmYA8xF9ztzjbBmSr66in+GrBG8TCpdhdLl7mxA5XNiThSWr8DTLHiOc8BppVRqaEBVU6t3ESRJtJiTyGAMvnVp/Cili0eJDGzeQ8sEZ/L1UVy8aWrDncwUGre0x5m3ngTMOoj7R1i1jyPT88Sql0U7Q01OZgW9BMYhpZlRV5gTIM36zvY++OZjS0BZBEyPlGJaFDTUSwHwmAZmRM7c525YrpMm25GvqcWp1aAFVS4mC0MFJB3DKJB5W8+RwsB5RaY8RCC+xXyG4AH3DCxzZvyzavhFZwLSh5dd7+UHpil7edqnWrmO4U0HpFUWtEmq7GZXwwoCU6onebTywXl6xVgRAKwYNpHO/pbDOI8Ky+aqpVLGjpZWrKhYhirEoxJOm5iSRI/qJw4rCTbDtUjMp2e4w1Mhnqww8Sd6kxOqCNVhMmLR0jFXleF5xcx+6vOpoEE6lAYSDIJGxx65/wBTp/EKoBJlgvj89zy32Hseef4elOjcOz1SWZ6rgjxEgkkDUYJAFiSBAmBGNIzcvYlpLoGynYvJUiUeg1VpjUzkAEAkkBTF4tJ2wY/AcsAaYy6qpIJh2BkbX1TzOH1pcluYPiAI8ha1hJ8/W+Gux1AsCfT3thKck9MGkS5bgNFGYd5VUKSABmKotMWGq9x54c2Ty9RHV6LuQw8T1GYEiVBIPRQQOn0xcGsrGWoKSbCHqM2mJiI0raCJgRywC6hC4KlTq8QJkzEg/wC778NTl5HSOVMqrUKioFVtIk8yFBseZtrv0x5XrCM5GpSpLIQoixsYLSOWPWeFKzVARBRT4iwIBUghh8MEw0xIx512ooUqGbcOCSTpADACTzaxJHKBHWRz34JtS7JewLj9RK1Pvk/+CA0dEZ1V6fmFd1IP8rdImtyWUFTN000KivDQogRG1/SMc7z93D6aYZXU03RiYIkMCL2Mqpm/MYGTP1tYdFUNpCoFUkgAnTo8wfwtyw5RalsDmbzmtxUcatTKxExKDla66jqPUTjQdlO0S0KoeGWn/wDLD6gw5zqE6fIySeeKijkXVVq941NahiF1KRBgLNgQBGxMWnFXWrNrJkzPyw5Nx2xVZ7TlsrlsytRqLxU06hRgatW8Cbkb+cxvzqHydQbqAB1In78YbhXH6tMqdR1bqf5QOZmd42/O3q3Y/N5biFJqjL/GWzjUR6PA59T19YETeMcicb0USr1JY8hFv/dfFvw3g1ep44SmhUgSY3UgGAZ87xsNxvpP+m06anSqgRuoE+5iT74onqBnKga+kDpubEDzm3OwxzS53JfaPDF7Ds5w5qaU6bsjOIK+G0CCAbyRqEXF58r57OUzr0ldDBhsLX2jywTxjMJ3xdXL2WTexgSDad8LL8U7upLIlUQPC997yGH94uABJxfGmip40dzeQanSWpJlmMmbciBEWME8+W2Lbh2UpV1HjUVQJCHSCb+SjV7G3ligp8Udqt2MeKF+wN+UBfpi1BhqbxcAEtExz/HFyi62RCSu0WpypSAQ0eTYWFrRwNTKBeZsT0+yZwsc2J0ZGboLMxBPMD9frriZRTMiHpNBBEhkbezW1Dc3AMScScN4brc6w1OTtyn+rxC/Un1xe5vg9NV092WJQhTqMhxEH08WxtYbXxbSumZq2ijyNASxIpi3UmPQFRyPWbdMQrw2tUdggsWklmgE9TyJHkMM4Tmr/G8RsFCiLdCY+WL/AIbXLKtMCAB4vISY9zhRtMS2V3/SQiglies/D1+EGdx1w6jkCSNrbGJ+mLLN5B6Y1t8O+qOXne2CeG0iSrQpXe1pHvBPy64aab2U010A52gWckIzXBgOFWwHxSIMdDGKzizEszNVplmuQpBO0R4SRjYcUr0tIDqpJsAQDPlvOKU9n6SzUqhoY2AkBQTtckn3w4yUQkrM1SZ6zLTSPDzZgoE87+nKTbAv7UeBllp1TDNpElTYkACJ84HzxouLZbLU18CszHm5At12keU26TfE9PhdLM5M0qbBKjXUNtPTpcdNoFrYtSVpkpHjuUo/vOZVasBFdFcgfDTBh4HMzCiZu88ycQ6CgSsCRUWoRAsUhVZWHlJN/LF/wfhTrmMxRqIUqKsOrW1AGJjYyDvscBdoF0ORFjt6x+QHyxvKbTaXvsKBOG6KxZH8MtIPIDYxbabgdDHKcAcU4aabkNeCN+Yjn5QMQJmCrzffl+vXE9fOSWR21CYVwD4hNrG4mBYiRecJfdt/2wKysxv1Jv8Al+vLpi97F9oXydYVVPxeEryK8yfnbznpiuq5efiFuTDl0mNx9ehtgfMp8JUbKAYM3BMnyk3jBVW2B9C8Hz9LO0pRw0XZTOted43A9D7YdmOEaWBVQxBmU0k36ypn+oEcxjxLst2iq0HFVWuhsZInyMbj88eit2rqVUFdGDKfC6MASjb6Sd4O4J3E8wYh8ONSj0yXLWzR8QpLVou5diaRANFVVL7bAXO9z52GMnnKaF/CGAgfF8QaPFsBzkYOodrKZAFTLqeXgJH4ycCcRzSVKmtAVUxYk7gQdz1Bwo5LsibTCezlRKeYQvq0iRKhtU6SARpuTPTF7ncxVqUmqLWqVaYuXV6apHmBPPlvf3xl+FUu9q6fEBeYMHwgkwTsYG/34IzbqjHRWp1NUS5Vw4kSe8hdNQgEtN2n3GCf+4cH9pe8C4jQbXr7gqNMMTTVhMyDqaTcb+WFitRqCHUDRqhgCRSr06akiRpdKrEyJ1SsAnlaSsZvjTZopuibJ596arSVqQMQT4WYMSbLBg/XcDDONZ9jTKtU7xgQfEYE7WiwieRufQYpFrdytqtMOPtVVvpIjSoTU3O5mNo64a1NWuGDPto1XNxdVGq0GZL+2CkS5aLDJUnVpsDEeHT1HIX94xY5XjFKgQrBpsZA3nnM3+o9d8U75klRTepQSYlSSGHTUPb9TOCxw4uQdLVDO7Np1TcEX2EDcgdNQNp0tsUG70Xma7ZKF00ySTa4268o+/b52PZXiqtSPeEAhmuS3WReI+vLbGE4zT7t1BGli8afIrIiPwwQmSK0VqVAoPmrz8R2YOF2g++/RNJpM1t20bPiGTq1GWvl6ita9Mmx9Dt7H+2K3itDMaC1YkDa7c5BgAEzt88ZvNhi4BqK6ncCoQFgWDF1AU+VziR8tWaCEp6T8ISrSI6GIqam8/PFRSSSJbsvOH8MorDV2Ag/CJMX5kfcLYF4lmKYZtEaZOmFG02+eK2ie8Og1HV5iAmqTtFqk/TC4vxOlkQTqFauNp+FTFoH2jPPbp1xSg32LT6KftdxcmvHeeOiqI/VQfFB6kBhI2tGMjxrMl6hUNqUEwwG45GNxMAwb4g45mHao1dvA1QSV6Hwn3BVp6j1wFrE3IP1H+n0GOiUUqTGMcHmI9bffhjkzAI232+u+CCvhJDW87xPqLjzgbYhr1RsINo26em/09OqcVFdgH8AzKEGjUgA3QnrzUnlPLznrh3EuGGmdj16x8sVDrMefLG+7I0KeYy1RauovSYEMDMJYc9wG89mHTCi09MGY7MVC+qY1EzaL+w/VsXXYPi4pVlWouum1nU815/LceYGLXifYiutIZiiprUBJYoSSoU+KV3tBFgflfGe4LktFZTUlVdX0MBMMFDExNwASByLQNg0aN3Tv4JPW89wZKuoZejQp00I8dQlS2seEhgJiQRBaPhtyxQ57htTLt3dSNSC+kyL+Lf0IxD2H7XO4SnMQITSzKdekmHmUKtGkWMEzHPHON8SetXZ2JMxMgC4UDYEjlvziYGM1FrRM67GVc0OhPqAR+eLTgfFkCmhWA7ogsVvqZrlIJkLDGdgOdzM1OZqCLb+uBDUufb7sPFSRlk0zc8J7GU61Ja1KoRqkFWEgEEqYi94m/X2wsZ3hVJe7AqFdbGaau0DTuWFxYwd/becdxi5pOrN4q10QZE0qcRmUViLupOr4uULsRHMXJ3AE9y/DWV1cOtWlG7kwxgiNIDGx5R0xizxMs2os1QT9oHVF4uN8H5TtDUJKorX3CBZN7G6GT5/WwxnnLwVjEu+LJ3NOpUfuwzOmhqc6VUSDpJAIYsQSOUDra67KcTqV4VXCxvcSR6k2EA7k++2Mxl+0DtpWnDNckd4wCgATcsqgCBI2tMYMy/GVDDvKdFiZ+GmhYyb+LQsHcmx3OHeUaZNU00aurxlaR8TRqM60q06hMKqiWUWsF5e2KTiOdeqQzVCwJJhmPh8pYibRMdMS8O4b+8ZhalNV/dzBZQQNPIqReOs3m58hZ8b7NKGQUlMEeKWUaTygHSryNVlO89IxMXGLRcspIGpZimtNf8AHUkTFDMSqjmW00wFYn7O3mMMp5w1qrIjuFf4lqN8UAmGiQBaNNxFueKRMq4sUMzGmDvtHXe2NPxLKjIUVq1X1VyP4aFrJ1YCPiH035DGyhbpdshNsD4znEyiFFhq7gzYeAEfDYAgkG/y5kY814lxMuS7SS3PmTfYHlM3NvLngjivFSSxJLO/w7RvzvZYm/MjkBihqMSdIMk7t18h5DHU644pLsfY56pmdjvItGwEfniNFYmcS5bLNUcIomSAAOfIY9D4F2Uo5cjvwtSsQfCY0IQCYaSAzeWw89hhKTkx9HnYB32I5qYxGUjf8sencbyoNCuaiUnemqlRpMqCyCxULsGAgG07Wxh85kkei1RAyOhAdCZGlhKMs3ixF55XvafawRVKfEDHIn5f3GNV2A4iKNZS0d3UPduDzQ/F+F+uMmouJ6fTzxZ5RmD05ECwHzvPnM40gvf+9gz17svmDTqVcu1fuVuyXUIXECGLKTBGk2I+E4wnb/hoy+Y10yjBSGDJBWDDLHkCSBv9MaF66slOrE66CRc2bSFnzuptgftPQWtQLLTAKrfxSSpICnls2ITqRPwYTgub7mo5FgpUqL7hgRv5dceg8cC1KyVaakiuqPCDbUoLAX5eL5Y8zzFQlizEkstyTuVFvuXG24LxiMnSA1HSSDcxAC7eczipulYnGy+r5iioZDSHdmAO7+MtpYgkkkCBeT6csVtGlRerTioNCuO8RyurQDJAZbNIBBsCJtPKgz3E1uUax5sQCZO46yZ2+eIDU7tZDjUw2ABPosxECBzBne0Y5lOS9ynxxZquKZ/W3hcoggBRAAgRAgiIGkWHlhYygzdbSBIkTOnSfDNiTyM2t0GFhWFFclMNJdokWCspNhaSCY52I5Yfk+JpSGpAxc/aYiwtaIuP15Yj7wBSoWxEX9QfYyBitcaSV5jFtUC2aLJcZLkqzQoB0bxMyCfb0Ex0jDy4ZgWMgmxGwG55X5YpsjUVTLCTNgdvOcHVK4EDafmNpEk7/mcIZZjNHS0SRpkeog25cjyvJ640nAeJB8sBUcMQ4gPBEy+006lyADYKbb4yFGssEapMGJExII+84K7N5gA6HVWBB0q6qw1CSJDTBm0i9yOZwNIEb/KZNKjd7q/hpLVSJEAbAzUa7bfCPS2ML2w442ZzBIFvgRQYEbKB62HpbmMartDnhRyAWkEU1ml9AkRJAHt4oHn5Y8yzNW8Df9SenM39T0x08UcY5MT2Q1wQWBsRZo67aR5CPphuRpEuI5YjZgYA2+/Gx7E5SiqmrqmuNRRSLBV06nB5sNQiY2YiYtN/dY/YsuznCf3RdbD/ALgi3/0x/wD2f9vrtZ5SqQ6sDBkc4+o29cVz5sbmZ9vywVw6qSe8kaEuSwBXV9lbC8nkOU4daM8tlxlu7ipUZFbwwZvOoaSD1BBxg+JZJaGYq0BADU/Cf5laGUmYhgYmJFrRi1q9qYlVWFvsAgMC508jFuv3DPdos730VlRQe70EJsCGJBHtH1GISaLspK6lJ2mQPly9MTZRzMAyAJE+Qkfl7edxqrFlkj388NykyPL7iJ/vjSEvur2GbQ12p0KCOGVgrSCII8bWINxebHE/BOMKHKMjVA4KwCee58IJsPLFGmcQU6bVH8Q1+Ag3HeNBkH1scNTiD92zKNIcaW0C+kRALahAiJ3k+YwSSMmpN6BeP5JqVWotvAdUjoSNvK4OCqRNPLEb6KoA9GQMp9xHyOJk01KI1NIpnSxIghWhTtt8Ux/kwzKsDRalqAqGmBANzWo1GEeYNKoR/TiXuJqA1s4TJDGfOYFjBHi3JtPyxWCoJ/Ej78dqVCCQw0neB67YifY8+fntjFIA6nnDAMRy/XnhYrqdXkdsLDxAsDmLQLR94PnzxxCXBUi52MScDkD9b/LE+XJYhVF/LfAMiFmje8cvbngxKekarfXc/T5n8MFL2bckDUNTXsJvv1n5gWvgt+DUqaL3mYViSNVOmAWgCY1FrX6rhAVwzbEBAdzFuZtYAb+mLrhnD66eN6ZRRBlnRW3tZmEXGx88OXtBSpL/ANvQVCDEqWBIiPGxJdvSY2vgai+YrguoZmG/xMBNgbsYESJwUydGwz3D3zOXK2Fg6NGx8IKsABF9m2535Zd+wGaCl9eX0KNTMa4gRtq8JtH2d/pgyrnaqgUqpFIqpJgkzAsopoyoDAMze8zjnF85+70adNhqqOdZUAcx/DB5EGFJ/wBQFiuNFN0CRjc1lHpHS0D3n0m1vf3xouxzBS2YqqSNJpoAY1E2Zp5AAlZAuT/lJxQ1qneMwJlnKpPqxZ293g36nF5mOIwopFWWmoAAkgBY8tyRFyOuBNhIOqcWy0HUr/F9mqTboBp+8/Pk3P8AGtag0vDRQeEDUb8zdrsTAJubW5Rms1BEr63NxbrtiCkHTc6dQIvuB1M7W5/2OGyUkPzvFXexYsB1t7x9ffzxBluIMkiJBG2GCASSL8gTb3tiGtWY74LGGVM0hII/lUNqiJAgkR1ufc4mpFLGGkgbGbCwi1rcyfuxUTialmSAV5H9fgMNOiiwdw26kBRFiIUcvf3wHWqSNI1R02/HzwxqhYASYHICBPXzPnhqrJ3+uGTRbZHVTy9Ri0aiAsHfkwH9Bb9EYhyLhH1zBBBDdJjS8cwDAYdGte+JeJ0GDCmYUIi6Z2KkagwjfVJM+xiIxO9daFKiyrqrTq1aZCpDeCGBRwdSuJW0eeMyh+e4a1ZTUpLDgTVpWkGSNSj7amCfDOx9qKtSZDclSOREEDG2q5lD4Kj1GoVKcJoYqKZZm8KAEALGglYADKAygAMtFxtu8TSwQPTKqrRBZNMQwFpUgbAfEegGACgJwsc7s4WACw/dizmBpXmSbAc7/liwy9ZKYOgStxrIOpjyi3yHLnPMmplzU8JYciY3mNhuSZMTF4PrifOcJRFGpgBHxGbkC5A3IuLx+MRCSY5ICpcQqNIDMq3EJImd9rsSeZJ54LpZAGdVRFgSVLNO8ANbTPlNpHOBivObpgFVMkG0i3mY/vgQ5wzF7GQOU8pGNCKNDVyiyBsYnSdUgf6R7XsD64jzfGnVNAq045hDPkCP5fDsJBHrikaq7HSHN7QvhHoYsfffEq8Pjc+LpI68jPTniZNLsEg3hPGCHRCR3Zbx+BCWB3EkExAjSLX98c46+uoAWOsvpViZDeKGed9Os6Q19WkmRtgDMUgFkGV3vy5GeWJuF5aoxDMdFNfD3lSyieSTu19h1G1sO0NAeTMOrCDpIa+1rgHrMbeuDcvTrZhpUFh5LCqeg2VT6X8ji3GSRFXuqK7g6qoUkSN3VgQh57e/UHOcQrExUdio2CQAR6CJ6QLDBEGI00oCZ1ORuVJA/wBIIHPmb22HOrzVXVLXkzvP/H34c+beNhA23gegJv7zgCrUYm5nFUSRE45iRyNt/PDdGAs5OHLHXDcPDCI5/r54YHJ6Y5OOY5gJLDNVzUhpvpVTqItpGkR5QBv6csWdbO03yqgEd7TIQ3AlDrhh/PGmmvUT0IAz6ORcYcXkeIehFvn1wmigqlxOKbIyyTEHobfMabR+is9nGfTJuqxI5wbE9bQP6RgNUB/H15Ylgc5vyFvbEgRd4esY7iVqmk2AHoccwUBpTxIBVWkg1EWjrJ9xz/Qkh1co7sxLFotEyB4bnzgx7dcVdGvzMwLnyk398Htxe+pTHTnE+W368pxioOL0VlfYK1AwdQjrPLSbiJmb3w2nSYnb385xbUswlQanUagDcD4iZk36gDpsNjuPnayqYWAB05/8fq2LU/YlodQpqv2iLblRG/zwNVEWm8WwOa8HUNz787b4iNTU0nmZOFTu2BY5GrUWoqD4tUxYmfW4I2tcYusxxCpOms8gTD6gVF5+GZO0AdYMGSMVX7gILagx5yCJtyNt9uRsYkYgrZmqx2LGfiYao8lmdItilFdgwrMZ4udd2iYIDah5DxFRvFuU4CqQp1s4Ym4uSZ8/LbHpP7Oey+VzWWL1VFQpUIlrEro+CAbQ5X5RtbGiq9gcgB4qCgnwqSTOolEW3NTUaZ5SvIxgzfsjo/08a290vY8Lr5su0mJ69fyxABM8seu9uOy+TpZau1GgisiiD4iZJrKSZ8IBKAiLi+1prM1Sp6K2nLUlAVzScq2sRRzzeJWsrpUyqIwIIlXI8LLFKdkcvDhtPv4PNFW9o98It0OPX+K8Ky9IZhloUz3AqlQQYbRQ7xdd5+K1iLfPGP8A2lZRKdQCnTVESpUpgwQ7FRSLB1KgA+IOrL4WSomxDTVmNGPUjnv5YYxvjuo8+eOlOcjBYxuOiOYwgp6HD2UDf9enuMKwGtyt7/XHCD/bEyLPt+r7Yk0gbW9AJwWBzSAAB0v1nrhjsOo9Pzw6RyN/K+IwB/z/AG3+WAB0eKPijyHT9b4WHmiwGo6gNtufS5wsFgQ0qkf8TiRszIjznEEY7pwUBY6lWnIgkgDkRHyuZ/HA1WrMTy+78v747TiIB5fr3xHUfE4isYD+eHhrADr9cT5HhdWsCaaM8b6ROBGlTEwQetxgoYeMwQNLCLm5ke07jF3V7A8TJP8AAPT4wR98EYyhexvuMe89pc6lNKLOmZe9lyxOqRzYKQSto6SRPLGPJyShJRXvf/iNIQUk2/Y834ZkuLZdxlaYem5DOFDKJiCxBm7CVMbgQdsRca4vxTKFUr1HTVqZfEDfXLmxsdYk85vj1HidFjxDKVSw0RVXSQARNFyJvyIO383+UE4H9qvD61XMoadOpUUK48CswU9/VJBjYkQfkcLi5FNq0tq/3ZrLknFafTooaHabPZgjL97UqCr4O71GG1G4PIAkzPvibi3afN0qxDkCpTIEkuSCAwUhtUkaXaD0dupnVfsq7JVKSVM7UosaolKNJhBF9NRzzW+pdpENa4xedr+zVEZzK511imHHe6tgYJQv5B4J/rkxGG+VKeKX+fBEspq27MpwulxmqFqCk2kDwlncNe5gayQT5gTgLinZrimabS9Bj3MgS86dQB5uenlAidxjUftOzuep1aJywfSsmETX9kABlgyJL8rSn+XFt+zetmWq5ipm5FRlo6VJnSml4B/zmxPry2BHlb4/UdfglwWVHl47CZ1gWFIaBbUalOLWJnVAE8zEX6YzxpwTcHcGDPyP449s7WZL984dGXY0+7kPTBFyvxBjuRz5WM8ireJ16cHSVKkEg6rGQbzOx5Y0hJyu9NPomUaGNVP0jDlfrc8r7YiAxOKUbwPXf5Y0JG1HnYnbrh1IsfMcydsKo/Sf15YfrmOfOD9LYAEymSJNt4sP174loZlkEgCBaeXyFif154jmSBy6fZjqZ39cclhYGB/lAmPPCAfXSRqbdjz3O5J+7CxA+pSSZB+R3+7CwwGg46DiMYkpqJuYHMxOKsmiWiJuTA39fLD6ecdD4GK+mB6pGwkev/AviI4Q6PQf2b9tM0mZSiahZH16tYmwpswj3AxuONcVp01Z6iOUGnWyTChw51EAzpApmSJPQY8o/Z0f/wDRoerf/jfHovbeiz0qtKmjO790oVepXMiWMQqi1yQPPHn8yU/qowk2otN910dPHrickt2gDtzwKi1A1aSgNGoMrQIiTqHwuhW8kT5mYBa1s7TyS5k5h6lR6asEYKF1soeIRVIhdX2uW2DM3lVp5elRZtR0U6MmTqaFpqY3gn5Tiy4mQ1NlAspHsLatt/4bHGHD9UqhGW1k1b3a6s1lxbk1rV/sy3ZJq+fpnNnMVFrUi6eAIbQG8IZG+y0bgmPOcN7HZ3O5ts1SrZ2ojUSFOhaYDKdYYz3RP2RG2+LH9luXFGjmqcfBmXA/0hEj6XxLk8mKGYzVRYAqpTt/pWpsJ/lhfVSca8nPjPkhq0k1pa8oiPHaT89jj2VqZmkKVXPNAJCUwaSlQDAHgpSLKDaOkWw7NcAbKZZqZ4i4pU1JNNmpEwTqNmolj4jP/GMx2arleN5ogmxrenxgYH/aZQfM5ykiQWcEeQhVkk8goBJPQHG7nL1vTvVX0iElhl80anifD6+Ryb1aecrGmqkord0wHgY0xDUvCtlGlSIm22JM9k69DLtm/wB9reKkKhtS1ECmWUQaUDc2nBHaotmsm9GnEtAUkNEAGCYEj0idsO4rRapw/wDd1OqoaApxeNYpaeY64xj9QpJU1bkk9dot8bV+Er/YFwXhlbuadRM21IOq1GIFISxAmSaN4PhHkB1w/gPC6aVqimoKjMmtivdQIZFBLU6aGwsATEFrWxIuVcZNcvALikEJExIsTtJHnFxcTig7D8ObJrmKdRkZ20mF1QFkAzqQc2Eb8+mLjP1HytPrKkqul07E41jrwXue4tl6dZaLU6jGpqA0sxAChWYkawTAb7INgbQMZLtx2epFGrUVVHWSyoAAyiS9tiVCs2rfwwZJEF8e4eK+YpF4NNTU1kgEAmlSC21XvJgGTpMCbYf2r4ohpV3ICgh1AgSNdOolNR1PinfZXIkDEQ+1cbi3b7V3rz8DlvJNaXR5kR0NsNG28fq3444pw9qY98egco4PK8/nz9PxxMUUKuoiTeJnnbyG2BkdgCAbHExrgkSAAP1E4AOUSCYOorFgDEbeRHLHcRtzM8+XP2wsADJw1jjpOG4YHMdw40zjhEYQF/8As+P/AH9D1b602GPS+1/H2yqa1RXNo1SIlap5f+n9ceZ/s/k8Qy/+o/8AsbG5/aehNKwmNJPkO7zEnHm83HHk+t44yVpp6/B18cnHhk15RX9leL1uIZ2m7oFp0FZiRqjUVKqCZ0gy0iADY7xjb5Vu8NZCCAGKzBAIZbaTzGmNtjjMfsqP/Zue7Cqrt45ks0AsfIBdC23g4tuF8d15ytlTTUFKessv2jqUEecFt/XHH9YpylNQj9sEl31uzXhqk5Pbb/YP2fchczYScwjR0lKMD5R88G06y1qQrJdXpah6QSJ8wSRy3OOmho/eDETVVifM6D8gukex6Yyf7N+JaqFXLvIalJANjoaSR1s4/wB4wfUL11LmXaaf6cVYQeDUH4f9QPs3UJ4vmiDfVXjy/if2x3t/xOpRr06lF9Ld2w1aQZBCarMDE4i7NA/9VzJAmDWnyHewP9xA98D/ALSZapSP+Vh7jR+Yx6T39V/1/qc3/H+zZ9pM81PLValJirBJB6bzvb2/tgR+L1BQ1o0P+7moG56v3ZmDdJm+Be0zHuKyHcKyx5qCW+itiCtTYZfSQdQyxUi8g/upER1kgeuMIQioKl/Gatu3+C0y3GXbLpqY62ohiZ+0Ukm3Of11znYzjtSp361W1Myq2sxYK625C+s++Dcv4BSV9S/wkBXdoalvchTYgxPMDAXCeCJRFRhVZpQWamFMGpSJNnaYsCI+0MdPHGEPVWtuX8jOTbcX+DQ0a6gSbkO2x5BKZ9B4mH/ljFdtA3eoxJKEWWbK4gP7kaHJ38QHLF332k06f8zVbj/06Mn2BLf04r+JUNdN0Mlkl153QEuvPSCneE9SiC+J4uNceM11JU/yhcknJNeGZhaUCT039eWOPTIJ6f8AO+HtJu2wtHkIA28sMHigbRe+OwwGEGPx64dSaI/UdPrh2sC33SP1z+Zw0n2M4ACO6EXvPK9tjfCxCis15n1wsAEGFhY4TgAeXxw/XHMLABY8D4u+VrLWRUZwGA1gkDUpUmAReCfni7z3b6vWVlell4ZGSyvsQRImpEgM0Ta/pjJ4QOJwjkp1tdP3KydY3oKo8UrooRK1RVGyq7ACTJsDG+FQztVWZ1qurtOplZgzSZOogyZN74GRDiQGMMmwt+K5jb94rf8A3H/PEvZziTUK61CTBlX81YQT7fF7YrQY6YfTAuXnaw64MVTT6Y1Jp2XfabvKfEM13TNTmq8lGK+EtqMkEWmD7Yqc5nKjMCzu2k+Es5JF9wTsbDbpjmZzbuWZiSXMmTMzvPXEEfPAARU4lWYENWqEHcGoxB6ze9sJuKVyTNaqZ3mo1z53vgUnHMUIL/6rmCf8er694/54ssh2trUqTU9NOrqae8qhmqAeHwBtQ8BKK2nqMUamMKcKrC2i8p9p6genU7qlqpsXU+PchQQRrgghVEdJHPFrwTtzTSr3lbKUSurUQhqi8zYGoQL4xuFGFiqquh5M1Xajj+UrVC9HJog6Fqoj/wAagH0xnnzScqKL6NU/F8RLtJ9sJ73wxBNNRqW3OfCSTvtdiMR15v4dN9pJ9Pf2xCpI2O4j2OJFmNv1/wAYAH0qoCjffYAH7/1c45hh9/Wb45gAiO2G4WFgA7juFhYAOYdzwsLABI+w9BhowsLCA5ier+OFhYYEZ5en4Y6/5fdhYWACI/r544cdwsMDmHVeWFhYAFR54cv4jCwsAEo2Hn+eIgLT0jCwsIBo3GJqVwR5n7sLCwATMo+pwsLCwgP/2Q==",
+      "summary": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+      "release_date": "13-02-2018",
+      "duration": "135 minutes",
+      "genre": ["Adventure", "Action", "Science", "Fiction"],
+      "rating": 7.3
+    }
+  },
+  {
+    "id": 79,
+    "movieDetails": {
+      "name": "Enchanted",
+      "trailer": "https://www.youtube.com/watch?v=IJwUFq8uOr0",
+      "poster": "data:image/jpeg;base64,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",
+      "summary": "The beautiful princess Giselle is banished by an evil queen from her magical, musical animated land and finds herself in the gritty reality of the streets of modern-day Manhattan. Shocked by this strange new environment that doesn't operate on a \"happily ever after\" basis, Giselle is now adrift in a chaotic world badly in need of enchantment. But when Giselle begins to fall in love with a charmingly flawed divorce lawyer who has come to her aid - even though she is already promised to a perfect fairy tale prince back home - she has to wonder: Can a storybook view of romance survive in the real world?",
+      "release_date": "20-11-2007",
+      "duration": "107 minutes",
+      "genre": ["Fantasy", "Comedy", "Romance"],
+      "rating": 7.1
+    }
+  },
+  {
+    "id": 80,
+    "movieDetails": {
+      "name": "Dhokha",
+      "trailer": "https://www.youtube.com/watch?v=tCSX4d_8oLQ",
+      "poster": "https://cdn.cinematerial.com/p/136x/xftdnfk1/dhokha-indian-movie-poster-sm.jpg?v=1661005952",
+      "summary": "When a delusional housewife with a personality disorder is taken hostage by a terrorist on the loose and a husband accused of cheating on his wife have their own versions of reality, how do we know who's saying the truth?",
+      "release_date": "23-09-2022",
+      "duration": "108 minutes",
+      "genre": ["Thriller", "Crime"],
+      "rating": 7
+    }
+  },
+  {
+    "id": 81,
+    "movieDetails": {
+      "name": "Terrifier 2",
+      "trailer": "https://www.youtube.com/watch?v=H2D1j77tGuA",
+      "poster": "https://cdn.cinematerial.com/p/297x/pozaovv1/terrifier-2-movie-poster-md.jpg?v=1662015569",
+      "summary": "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night. As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+      "release_date": "06-10-2022",
+      "duration": "138 minutes",
+      "genre": ["Horror", "Thriller"],
+      "rating": 5.6
+    }
+  },
+  {
+    "id": 82,
+    "movieDetails": {
+      "name": "Bhoot",
+      "trailer": "https://www.youtube.com/watch?v=nXsTxaHmmTo",
+      "poster": "https://cdn.cinematerial.com/p/297x/xpbdopug/bhoot-indian-movie-poster-md.jpg?v=1456833648",
+      "summary": "A Mumbai businessman and his wife are looking for a new flat. Apartment 1201 has been vacant since its previous occupant jumped to her death. Undeterred, the couple still decides to move in, but before long, the wife starts to have visions",
+      "release_date": "30-05-2003",
+      "duration": "113 minutes",
+      "genre": ["Horror"],
+      "rating": 6.2
+    }
+  },
+  {
+    "id": 83,
+    "movieDetails": {
+      "name": "The Shawshank Redemption",
+      "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+      "poster": "https://cdn.cinematerial.com/p/297x/b5v2e9jg/the-shawshank-redemption-movie-poster-md.jpg?v=1596989012",
+      "summary": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "release_date": "23-09-1994",
+      "duration": "142 minutes",
+      "genre": ["Drama", "Crime"],
+      "rating": 9.3
+    }
+  },
+  {
+    "id": 84,
+    "movieDetails": {
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
+      "poster": "https://cdn.cinematerial.com/p/297x/xkhlhpki/harry-potter-and-the-philosophers-stone-movie-poster-md.jpg?v=1602180880",
+      "summary": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard�with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths�and about the villain who's to blame.",
+      "release_date": "16-11-2001",
+      "duration": "152 minutes",
+      "genre": ["Adventure", "Fantasy"],
+      "rating": 7.6
+    }
+  },
+  {
+    "id": 85,
+    "movieDetails": {
+      "name": "The Last Manhunt",
+      "trailer": "https://www.youtube.com/watch?v=wvCw2FoTXwY",
+      "poster": "https://cdn.cinematerial.com/p/297x/iatvfcs6/the-last-manhunt-movie-poster-md.jpg?v=1667043440",
+      "summary": "In 1909, Willie Boy and his love Carlota go on the run after he accidentally shoots her father in a confrontation gone terribly wrong. With President Taft coming to the area, the local sheriff leads two Native American trackers seeking justice for their �murdered� tribal leader.",
+      "release_date": "18-11-2022",
+      "duration": "103 minutes",
+      "genre": ["Western"],
+      "rating": 4.1
+    }
+  },
+  {
+    "id": 86,
+    "movieDetails": {
+      "name": "White Noise",
+      "trailer": "https://www.youtube.com/watch?v=SgwKZAMx_gM",
+      "poster": "https://cdn.cinematerial.com/p/297x/jhetprcp/white-noise-movie-poster-md.jpg?v=1661464751",
+      "summary": "Jack Gladney, professor of Hitler studies at The-College-on-the-Hill, husband to Babette, and father to four children/stepchildren, is torn asunder by a chemical spill from a rail car that releases an �Airborne Toxic Event�, forcing Jack to confront his biggest fear � his own mortality.",
+      "release_date": "25-11-2022",
+      "duration": "135 minutes",
+      "genre": ["Adventure", "Drama", "Comedy"],
+      "rating": 6.5
+    }
+  },
+  {
+    "id": 87,
+    "movieDetails": {
+      "name": "Aftersun",
+      "trailer": "https://www.youtube.com/watch?v=vXKcWRu8K_U",
+      "poster": "https://cdn.cinematerial.com/p/297x/d7vpdy6d/aftersun-movie-poster-md.jpg?v=1664314289",
+      "summary": "11-year-old Sophie takes a summer vacation to Turkey with her loving and idealistic father, Calum. Twenty years later, she reminisces about the experience and reflects on their relationship � and the parts of him she wasn't able to know.",
+      "release_date": "21-10-2022",
+      "duration": "102 minutes",
+      "genre": ["Drama"],
+      "rating": 7.7
+    }
+  },
+  {
+    "id": 88,
+    "movieDetails": {
+      "name": "The Bad Guys",
+      "trailer": "https://www.youtube.com/watch?v=m8Xt0yXaDPU",
+      "poster": "https://cdn.cinematerial.com/p/297x/4vmodacg/the-bad-guys-movie-poster-md.jpg?v=1639499851",
+      "summary": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world�s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+      "release_date": "17-03-2022",
+      "duration": "100 minutes",
+      "genre": ["Adventure", "Action", "Comedy", "Crime"],
+      "rating": 6.8
+    }
+  },
+  {
+    "id": 89,
+    "movieDetails": {
+      "name": "The fall",
+      "trailer": "https://www.youtube.com/watch?v=dyFrBC1rAcg",
+      "poster": "https://cdn.cinematerial.com/p/297x/3gs0petq/the-fall-british-movie-poster-md.jpg?v=1456539008",
+      "summary": "When the Police Service of Northern Ireland are unable to close a case after 28 days, Detective Superintendent Stella Gibson of the Metropolitan Police Service is called in to review the case. Under her new leadership, the local detectives must track down and stop a serial killer who is terrorising the city of Belfast.",
+      "release_date": "12-05-2013",
+      "duration": "90 minutes",
+      "genre": ["Thriller", "Crime"],
+      "rating": 8.1
+    }
+  },
+  {
+    "id": 90,
+    "movieDetails": {
+      "name": "Elvis",
+      "trailer": "https://www.youtube.com/watch?v=wBDLRvjHVOY",
+      "poster": "https://cdn.cinematerial.com/p/136x/dktglbzl/elvis-movie-poster-sm.jpg?v=1656020991",
+      "summary": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
+      "release_date": "22-06-2022",
+      "duration": "159 minutes",
+      "genre": ["Drama", "History", "Music"],
+      "rating": 7.4
+    }
+  },
+  {
+    "id": 91,
+    "movieDetails": {
+      "name": "Vikram vedha",
+      "trailer": "https://www.youtube.com/watch?v=hpwnlr-ZHB0",
+      "poster": "https://cdn.cinematerial.com/p/136x/ph1h0p0s/vikram-vedha-indian-movie-poster-sm.jpg?v=1661325638",
+      "summary": "Vikram, an honest officer with the Lucknow police, is on a mission to find and eliminate gangster Vedha. However, when Vedha surrenders himself to the police and starts narrating stories to Vikram, it blurs the lines between good and evil. Vedha questions Vikram's righteousness while the latter believes he is fair and just. But is he?",
+      "release_date": "30-09-2022",
+      "duration": "160 minutes",
+      "genre": ["Action", "Thriller", "Crime"],
+      "rating": 8
+    }
+  },
+  {
+    "id": 92,
+    "movieDetails": {
+      "name": "The School ",
+      "trailer": "https://www.youtube.com/watch?v=_qyvxT-BtSg",
+      "poster": "https://cdn.cinematerial.com/p/136x/zfmsjlrs/the-school-australian-movie-poster-sm.jpg?v=1584995819",
+      "summary": "When a doctor looking for her missing child awakens to find herself in an abandoned school, she must survive the supernatural terror and face her own demons if she is to find the truth about where her son is.",
+      "release_date": "04-10-2018",
+      "duration": "89 minutes",
+      "genre": ["Horror", "Thriller", "Mystery"],
+      "rating": 5.8
+    }
+  },
+  {
+    "id": 93,
+    "movieDetails": {
+      "name": "The Wolf of Wall Street",
+      "trailer": "https://www.youtube.com/watch?v=iszwuX1AK6A",
+      "poster": "https://cdn.cinematerial.com/p/136x/sotvcmhv/the-wolf-of-wall-street-movie-poster-sm.jpg?v=1456478658",
+      "summary": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "release_date": "25-12-2013",
+      "duration": "180 minutes",
+      "genre": ["Drama", "Comedy", "Crime"],
+      "rating": 8.2
+    }
+  },
+  {
+    "id": 94,
+    "movieDetails": {
+      "name": "Once Upon a Time in Hollywood",
+      "trailer": "https://www.youtube.com/watch?v=ELeMaP8EPAA",
+      "poster": "https://cdn.cinematerial.com/p/136x/xznjqaxh/once-upon-a-time-in-hollywood-movie-poster-sm.jpg?v=1558157079",
+      "summary": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski�",
+      "release_date": "24-07-2019",
+      "duration": "162 minutes",
+      "genre": ["Drama", "Comedy", "Thriller"],
+      "rating": 7.6
+    }
+  },
+  {
+    "id": 95,
+    "movieDetails": {
+      "name": "Pulp Fiction",
+      "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+      "poster": "https://cdn.cinematerial.com/p/136x/nv0qychi/pulp-fiction-movie-poster-sm.jpg?v=1596985918",
+      "summary": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "release_date": "10-09-1994",
+      "duration": "154 minutes",
+      "genre": ["Thriller", "Crime"],
+      "rating": 8.9
+    }
+  },
+  {
+    "id": 96,
+    "movieDetails": {
+      "name": "Dune",
+      "trailer": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+      "poster": "https://cdn.cinematerial.com/p/136x/kwt3xesd/dune-movie-poster-sm.jpg?v=1626714517",
+      "summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+      "release_date": "08-09-2021",
+      "duration": "155 minutes",
+      "genre": ["Adventure", "Science", "Fiction"],
+      "rating": 8
+    }
+  },
+  {
+    "id": 97,
+    "movieDetails": {
+      "name": "Pushpa",
+      "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY",
+      "poster": "https://cdn.cinematerial.com/p/297x/p9hlwfhg/pushpa-indian-movie-poster-md.jpg?v=1620894417",
+      "summary": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn�t shy from making an enemy or two.",
+      "release_date": "16-12-2021",
+      "duration": "179 minutes",
+      "genre": ["Drama", "Action", "Thriller"],
+      "rating": 7.6
+    }
+  },
+  {
+    "id": 98,
+    "movieDetails": {
+      "name": "Vikram",
+      "trailer": "https://www.youtube.com/watch?v=OKBMCL-frPU",
+      "poster": "https://cdn.cinematerial.com/p/136x/c96drisd/vikram-indian-movie-poster-sm.jpg?v=1657344436",
+      "summary": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved",
+      "release_date": "02-06-2022",
+      "duration": "174 minutes",
+      "genre": ["Action", "Thriller"],
+      "rating": 8.4
+    }
+  },
+  {
+    "id": 99,
+    "movieDetails": {
+      "name": "RRR",
+      "trailer": "https://www.youtube.com/watch?v=f_vbAtFSEc0",
+      "poster": "https://cdn.cinematerial.com/p/136x/xq9n7d5c/rrr-japanese-movie-poster-sm.jpg?v=1669004744",
+      "summary": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+      "release_date": "24-03-2022",
+      "duration": "187 minutes",
+      "genre": ["Rise", "Roar", "Revolt"],
+      "rating": 8
+    }
+  },
+  {
+    "id": 100,
+    "movieDetails": {
+      "name": "An Action Hero (2022)",
+      "trailer": "https://www.youtube.com/watch?v=vCTt_PnWHPg",
+      "poster": "https://imgshare.info/images/2022/12/02/54b6ccb5bba327acd4471c5b5db61889.jpg",
+      "summary": "Youth Icon. Superstar. Action Hero. At the age of just 30, Maanav was at the peak of his career when he got caught up in an accident while filming in Mandothi village in Haryana. Maanav, who was once a household name, is now living in hiding.",
+      "release_date": "01-12-2022",
+      "duration": "160 minutes",
+      "genre": ["Action"],
+      "rating": 3.3
+    }
+  }
+]
