@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Outlet } from "react-router-dom";
-import data from "../Assest/data.json";
+import data from "../Asset/data.json";
 
 const Data = () => {
   return (
